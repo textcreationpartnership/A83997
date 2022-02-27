@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Englands safety in navie and fortifications; the common interest both of King and people. Conteining necessary observations concerning Dover, and other sea-towns of England. Published for the necessary view of the right honourable, the high court of Parliament: and also for the publique safetie of the kingdome, and all other His Majesties dominions.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83997</idno>
+            <idno type="STC">Wing E3043</idno>
+            <idno type="STC">Thomason E137_20</idno>
+            <idno type="STC">ESTC R13888</idno>
+            <idno type="EEBO-CITATION">99859573</idno>
+            <idno type="PROQUEST">99859573</idno>
+            <idno type="VID">156503</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83997)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156503)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 24:E137[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Englands safety in navie and fortifications; the common interest both of King and people. Conteining necessary observations concerning Dover, and other sea-towns of England. Published for the necessary view of the right honourable, the high court of Parliament: and also for the publique safetie of the kingdome, and all other His Majesties dominions.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Io. Ch. and Iohn Bull,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Defenses --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156503:1" rendition="simple:additions"/>
+            <p>ENGLANDS SAFETY IN NAVIE AND FORTIFICATIONS; The common Intereſt both of King and People.</p>
+            <p>
+               <hi>CONTEINING NECESSARY</hi> OBSERVATIONS CONCERNING DOVER, AND OTHER SEA-TOWNS OF <hi>ENGLAND.</hi>
+            </p>
+            <p>Publiſhed for the neceſſary View of the Right Honourable, The High Court of PARLIAMENT: And alſo for the publique ſafetie of the Kingdome, and <hi>all other his <hi>Majeſties</hi> Dominions.</hi>
+            </p>
+            <p>Printed for <hi>Io: Ch:</hi> and <hi>Iohn Bull.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156503:2"/>
+            <pb facs="tcp:156503:2"/>
+            <head>NECESSARY OBSERVATIONS CONCERNING DOVER, AND OTHER SEA-TOWNS OF <hi>ENGLAND.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">D</seg>OVER with her Caſtle hath (by Ancients) been accounted, The lock and key to the whole Realme of <hi>England.</hi> Likewiſe the five Ports, together with the two ancient Townes annexed, or incorporated into the ſame; with their ſeaven members, have all of them been places of great ſtrength and importance; and con<g ref="char:EOLhyphen"/>ſequently, have therefore obtained many great priviledges. In this Latine Verſe next enſuing (unfitting to be in this obſer<g ref="char:EOLhyphen"/>vation omitted) are all the ſaid fourteen Haven Townes ſet forth.</p>
+            <q xml:lang="lat">
+               <l>Haſtingus, Dover, Sandwicus, Romneus, Hithus,</l>
+               <l>Sunt Portus. Villae antiquae, Rya, Frigmare ventus.</l>
+               <l>Villa februm, gentis ſaxum, pelagi vada, Lydda,</l>
+               <l>Fordwich, Tenterden, Penenſea, membra notantur.</l>
+            </q>
+            <p>Engliſhed, <q>
+                  <hi>Haſting, Dover, Sandwich, Romney,</hi> and <hi>Hith,</hi> are the Cinque or five Ports, <hi>Rye</hi> and <hi>Winchelſea</hi> are the two ancient Townes, united and incorporated into the ſame priviledges the ſaid Cinque-Ports enjoy.</q>
+            </p>
+            <pb n="4" facs="tcp:156503:3"/>
+            <p> 
+               <hi>Feverſham, Foulkſton, Sea-ford, Lydd, Fordwich, Tenterden,</hi> and <hi>Pevenſey,</hi> are the Five Ports, and two ancient Townes, ſeverall members, beſides <hi>Deale. Walmer.</hi> Very many Villages and Pa<g ref="char:EOLhyphen"/>riſhes in the Iſland of <hi>Thanet</hi> in <hi>Kent,</hi> and ſome elſewhere, enjoying the ſame liberties and priviledges for the Lands de<g ref="char:EOLhyphen"/>fence.</p>
+            <p>The Caſtles of <hi>Dover, Sandowne, Deale, Walmer, Sandgate, Camber, Moates-Bulwarke,</hi> and <hi>Archcliff<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>-Bulwarke<g ref="char:punc">▪</g>
+               </hi> theſe many yeares now paſt, have been much decayed in their ſeveral Ma<g ref="char:EOLhyphen"/>gazens of Armes, and all ſorts of warlike Munition, which have heretofore been kept and continually very well ſupported and maintained; as not onely honourable, ſtrong, and defenſible Forts, ſtanding next unto the Seas, being Frontiers of this Realme; but alſo ſo neceſſary Fortifications for the defence and ſafeguard of the ſame, that they have alwayes been repaired, and with Munition continually ſupplyed, for the publique de<g ref="char:EOLhyphen"/>fence of this Kingdome, yet of late yeares have wanted much proviſion of abiliaments for Warre, or warlike defence; beſides all the defects in ſtore. A part of the North Wall of <hi>Dover</hi> Caſtle ſince the yeare 1637. by tempeſtuous or ſuch like wea<g ref="char:EOLhyphen"/>ther, hath fallen downe into the Caſtle-trench. Likewiſe much of the Leads of the Kings lodgings in the ſaid Caſtle have by boyſterous tempeſts and great winds, blown quite up to the top of the ſtone-worke thereof, and ſome blowne over it; impairing the who<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Tymber Fabricke underneath, to the great prejudice of <hi>Englands</hi> ſomtimes glorious &amp; formidable Common-wealth; notwithſtanding, the ſeverall proviſions, ſtores, and Magazens of the ſaid Caſtles, &amp;c. have been of late much decayed, have little or nothing been repleniſhed.</p>
+            <p>At the firſt comming of the <hi>Spaniſh</hi> great Fleete of Warre in the beginning of <hi>September</hi> 1639. into the narrow Seas, and in<g ref="char:EOLhyphen"/>to the Kings Chamber, there ſo called; The ſaid ſeverall Ca<g ref="char:EOLhyphen"/>ſtles. Bulwarks, and places of Defence, were all, or moſt of them, without any ſtrength formidable before the face of ſo ſtrong and mightie a Fleete, or any power reſiſtable, if an attempt had been performed by the vaſt and War-like <hi>Spaniſh</hi>-Fleete afore<g ref="char:EOLhyphen"/>ſaid; but contrariwiſe, in very weake plight and dolefull ſtate, even in depaire of looſing the moſt part of the Sea-Townes
+<pb n="5" facs="tcp:156503:3"/>and Fortifications neere <hi>Dover,</hi> the <hi>Downes,</hi> and elſewhere, if not the dangerous deſtruction of the whole Iſland, nay, the whole Kingdome.</p>
+            <p>For further demonſtration of the Caſtles and Sea-coaſts ſe<g ref="char:EOLhyphen"/>verall weakneſſes, three hundred land-ſouldiers were appointed out of the ſaid five Ports, Haven-Towns, and Members to be raiſed for purſuite of the <hi>Scots</hi> in that late expedition, if they had been compelled unto, and to march away from the ſaid Ports, had been a deſigne onely to weaken, the then weake and too weak, ſea-coaſts for ſuch a time of action: heretofore they have been accounted the keyes of <hi>England,</hi> yet at that time of emi<g ref="char:EOLhyphen"/>nent danger, they might well have been eſteemed, the Deſtru<g ref="char:EOLhyphen"/>ction of <hi>England.</hi> Had we not been then by the <hi>Holland</hi> Navie defended (as one well termed it, the ſcourge of <hi>Spaine</hi>) whom together with us were protected by the divine providence a<g ref="char:EOLhyphen"/>bove, in guiding Admirall <hi>Van-Trompe</hi> here below, <hi>England</hi> doubtleſſe in the ſaid yeer 1639 had miſerably felt the ſavage crueltie of <hi>Spaines</hi> great Treacherie; to a Kingdom then and ſtill in League and friendſhip with him. Heretofore the coura<g ref="char:EOLhyphen"/>gious ſtoutneſſe of the <hi>Engliſh</hi> had rather expire in a valiant re<g ref="char:EOLhyphen"/>ſiſtance, than yeeld to the laſting ſlavery of ſo proud a Nation.</p>
+            <p>Queen <hi>Elizabeth</hi> of ever famous memorie, kept them under enough; and their <hi>Spaniſh</hi> proud hearts humble in ſight onely of her Majeſties ſhips, and her Vice-Admirall Sir <hi>Francis Drake;</hi> as for inſtance, when the Armado of <hi>Spaine</hi> in the yeer 1588. was arrived in the Narrow Seas, having paſſed the place of their ex<g ref="char:EOLhyphen"/>pected ſupply, and gotten Sea-roome for their high bodied Hulks, ſpread their main ſails, and made away as faſt as winde and water would give them leave, more fearing the ſmall Fleet and Forces of the <hi>Engliſh,</hi> (though nothing in number like unto them) than ſtanding upon termes of Honour either of their chieftains or Invicible Navy: Yet ſurely if they had known the want of Powder, (a fault unexcuſable upon our coaſts) they (no doubt) would have ſtood longer to their tacklings. But God in this of 1588. as likewiſe of the laſt Armado of <hi>Spaine,</hi> 1639. would have us to acknowledge, that we were onely delivered by his own gracious providence and arme, and not by any po<g ref="char:EOLhyphen"/>licie or ſtrength of our own. A Motto on the ſaid Vice-Admi<g ref="char:EOLhyphen"/>rall
+<pb n="6" facs="tcp:156503:4"/>
+               <hi>Drake,</hi> though not much pertinent to the matter in the pre<g ref="char:EOLhyphen"/>cedencie of theſe obſervations treated on, yet deſervedly to be remembred to the everlaſting renown of ſo valiant and ſo true a Subject to the ſaid Queen <hi>Elizabeth.</hi>
+               <q>
+                  <l>If Popery ſhould (which God forbid) re-raigne,</l>
+                  <l>They could not, Noble <hi>Drake,</hi> dig up thy grave,</l>
+                  <l>As once they did, I ſay, with fell diſdain,</l>
+                  <l>Againſt good <hi>Luther</hi> furiouſly rage and rave.</l>
+                  <l>They could not doe't 'gainst thee, I ſay, for why,</l>
+                  <l>Thy bones in th'bottome of the ſea do lie.</l>
+               </q>
+            </p>
+            <p>Now to the Subject aforeſaid, notwithſtanding the weak<g ref="char:EOLhyphen"/>neſſe of the ſaid Fortifications, in that time of ſtreight 1639. <hi>Englands</hi> Sea proviſion was as weak, if not weaker than the Ca<g ref="char:EOLhyphen"/>ſtles, Fortifications, &amp;c. Proviſion on the ſhore, onely foure of his Majeſties ſhips (neer thoſe Sea rowns and Villages afore<g ref="char:EOLhyphen"/>named then and ſtill in diſtreſſe, if no better fortified then with<g ref="char:EOLhyphen"/>in theſe few moneths now paſt, if any occaſion or attempt in a warlike manner be offered) for aſſiſtance and preſervation of <hi>Brittaines</hi> great Iſland; What were his Highneſſe ſaid 4. ſhips of warre to the <hi>Spaniſh</hi> great Gallownes fiftie three in number? full of proviſion of all materials for warre, fitted with grave and (queſtionleſſe) skilfull Sea-men. Moreover in each ſaid ſhip or great Gallowne, were a very great ſtore of Land-men: Like<g ref="char:EOLhyphen"/>wiſe to each ſeverall great companies were Captains both of ſea and land ſouldiers, in thoſe vaſt Gallownes.</p>
+            <p>The report of a friend of mine, skilfull both in Sea and Land Imployments, declared his opinion, That this mighty Fleet was bound either for <hi>England</hi> or <hi>Ireland,</hi> and, ſaid he, a fit time for them to act their afore-intended Deſignes; By reaſon <hi>England</hi> hath enough to do with <hi>Scotland</hi> at preſent: yet (ſaid he) though their pretence be for the relief of <hi>Flanders</hi> chief City and Sea-town <hi>Dunkerke,</hi> there to diſcharge their multitudes of Sea and Land Souldiers, ſaid he, the Hulls or Bottoms of thoſe mighty warlike Gallownes draw too much water for ever coming to <hi>Dunkerke,</hi> or any nearer than a League or two: therefore (ſaid he) if their Commiſſions were made known, this Fleet is to land in ſome Port or Ports of <hi>England,</hi> for they have both Sea and
+<pb n="7" facs="tcp:156503:4"/>Land Companies, and likewiſe their Ordnance are mounted with Land carriages above the Decks of their Gallownes; To the intent immediatly after their landing in their Ports deſigned by their Commiſſions, that with the Field or Land carriages wherewith the ſaid Ordnance are mounted, may diſplay upon the Countrey; And likewiſe with mans ſtrength, or otherwiſe, draw them againſt the Caſtles, Bulwarks, and fortified Places of this Iſland, thereby forthwith to obtain a great part of the Shire or Countie wherein they land, untill repulſe, nay even to the City of <hi>London,</hi> the Metropolitane City of this Kingdom of <hi>England.</hi> Many great Papiſts (of this Kingdom (for inſtance) during the Spaniſh Fleets ſtay in the Downs, a good Road for ſhips neer <hi>Dover</hi>) came thither, and were very jocant and jovi<g ref="char:EOLhyphen"/>all, nay ſome of them in a kind of commanding way, ſeeing things almoſt compliant with their purpoſes.</p>
+            <p>And at the time aforeſaid generally through the whole King<g ref="char:EOLhyphen"/>dom, every Province or County had a Treaſurer for the Pa<g ref="char:EOLhyphen"/>Piſts, to ſupply the wants either of weapons or money of all the Popiſh party that needed therein; ſo that conſequently the ſaid <hi>Spaniſh</hi> Fleet came for and was provided for this Kingdom in that time of <hi>Englands</hi> diſtreſſe. I ſay diſtreſſe, by reaſon of the intended warre betwixt <hi>England</hi> and <hi>Scotland,</hi> which (God be praiſed) hath ended in a bleſſed peace, and likewiſe the weak<g ref="char:EOLhyphen"/>neſſe of <hi>Englands</hi> Navie and Fortifications aforeſaid. Now not omitting a true verſe, deſcribing this Kingdoms publique wel<g ref="char:EOLhyphen"/>fare, (if truly obſerved) for the knowledge of <hi>Englands</hi> Wor<g ref="char:EOLhyphen"/>thies in the Honorable and high Court of <hi>Parliament,</hi> now aſ<g ref="char:EOLhyphen"/>ſembled as followeth.
+<q>
+                  <l>England's ſafe gates, are her Cirqueports,</l>
+                  <l>Her ſtately ſhips, her walls:</l>
+                  <l>Her Camps, the Sea; Bulwarks, her Corps;</l>
+                  <l>Her heart, her Generals.</l>
+               </q>
+            </p>
+            <p>The dayes are now dangerous, and full of miſchiefs infinite, therefore if the great Councell of Parliament would but caſt their eyes (on the Kings Navie, Caſtles, Towers, Bulwarks, Blockhouſes, and all fortified places for <hi>Englands</hi> ſafetie and de<g ref="char:EOLhyphen"/>fence,
+<pb n="8" facs="tcp:156503:5"/>and likewiſe upon a book entituled, The Advice of that worthie Commander Sir <hi>Charles Howard,</hi> newly publiſhed, and lately preſented to this moſt Noble and Honorable Aſſemblie of Parliament; together with another ſmall book entituled, M<hi rend="sup">r</hi>. <hi>Balls</hi> Propoſitions of Fortifications) and have them fully and exactly viewed, and certified under the hands of the ſeverall Generals, Admirals, Captains, Lieutenants, Gunners, and Offi<g ref="char:EOLhyphen"/>cers, both of Navie and Fortifications, as they will teſtifie upon their oaths on the holy Evangeliſts before this great Court of Parliament; That the Worthies thereof may know, the true ſtate of the ſtrength of the Kingdom, and ſo trienually in Par<g ref="char:EOLhyphen"/>liament continually make reſtitution and proviſion for the ſame: For as a learned Member in this Parliament once ſpake, That <hi>England's</hi> ſafetie conſiſts in being provided continually for warre, and to aſſiſt the Allies of the Proteſtant partie; the maintenance of the ſaid warlike proviſion may continually be preſerved and ſupplied by a bleſſed and happy peace.</p>
+            <p>That likewiſe perſons of good truſt, and well affected to the Proteſtant Religion, may continually be imployed in all the Kings ſhips, Caſtles, Towers, Bulwarks, Block-houſes, and all other fortified places of this Kingdom; ſo that <hi>England</hi> may hereafter be as formidable as ever to the terror of her Enemies, and the ſafetie of her Inhabitants, and the advancement of the true Proteſtant Religion; the which queſtionleſſe will give great ſatisfaction to all good Proteſtants, Gods children, and the Kings moſt loyall and obedient ſubjects.</p>
+            <p>Now let us all conclude, that your Indeavours may (by Gods moſt gracious aſſiſtance) be for our Countreys and Kingdom flouriſhing in true Religion, and repulſe to all our Enemies do<g ref="char:EOLhyphen"/>meſtick and forraigne, both of Church and State, holding this Maxime for ever:</p>
+            <epigraph>
+               <q xml:lang="lat">Dulce &amp; decorum pro patria mori?</q>
+               <q>
+                  <l>Oh, how ſweet it is to ſpend our deareſt blood,</l>
+                  <l>For our Native Countrey, her benefit and good?</l>
+               </q>
+            </epigraph>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
